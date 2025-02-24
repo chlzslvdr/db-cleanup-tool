@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed on your machine:
 Clone the repository and install the required dependencies by running:
 
 ```bash
-git clone git@github.com:wanpng/db-cleanup-tool.git
+git clone git@github.com:chlzslvdr/db-cleanup-tool.git
 cd db-cleanup-tool
 pip install -r requirements.txt
 ```
